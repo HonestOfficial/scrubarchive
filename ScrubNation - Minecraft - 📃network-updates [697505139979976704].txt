@@ -1,0 +1,1005 @@
+==============================================================
+Guild: ScrubNation
+Channel: Minecraft / 📃network-updates
+Topic: Network information
+==============================================================
+
+[08-Apr-20 01:58 PM] Litt#9053
+We will post server updates here for all servers. ( This includes: Survival, Prison, and Creative server(s)  )
+
+Staff that post here start messages with:
+
+                       ***Major/Minor update: *** 
+                                     **Server**:
+                            - Fixes example
+
+
+[08-Apr-20 02:21 PM] James#0007
+**Survival** *(Minor Update)*
+
+``Villagers can now travel through the Nether``
+
+{Reactions}
+Minecraft (7) 
+
+[09-Apr-20 11:05 AM] Litt#9053
+```Survival:
+   (Minor Update) - Added /help gui             ```
+
+
+[10-Apr-20 09:41 AM] Mortex🇬🇧#8361
+**Minor update:  **
+
+
+[10-Apr-20 09:42 AM] Mortex🇬🇧#8361
+Effect's all servers.
+
+
+[10-Apr-20 09:42 AM] Mortex🇬🇧#8361
+- Updated a few plugins!
+
+
+[13-Apr-20 10:04 AM] Litt#9053
+Minor Update:
+**Towny**:
+
+Now you can protect: Chests, Doors, Entities, and more!
+
+Default gets 6 Protections
+
+Subscriber gets 20
+
+Vip gets 35
+
+(Theres are entitled to be changed) * Updated 8:30am
+
+just use /cp for protection!
+Each protection cost $5
+
+All your commands are under /help (This info is under towny section)
+
+Remember to report all bugs to @deleted-role
+
+
+[13-Apr-20 02:46 PM] Litt#9053
+**Towny**:
+
+Chest Protection has been fixed!
+
+Wont auto-lock placeables. You have to type /lock to enable lock mode
+
+It cost $5.00 per protection.
+
+Do disable lock mode just enter /lock again
+
+@everyone
+
+
+[14-Apr-20 12:26 AM] Litt#9053
+**Towny**:
+
+Fixed weird bug where you can't use /warp shop
+
+
+[14-Apr-20 03:37 AM] Litt#9053
+**Towny**:
+
+Just wanted to go over the new Protection system...
+
+I turned **off** auto protect, so you have to manually protect your containers/entities.
+
+That will be done with */lock* and then right click what you want protected.
+
+If you accidently use */lock* just type it again and it will close out.
+
+**Defaults** get 6 locks
+**Subs** get 20 locks
+**Vip** gets 35 locks
+
+First lock is $5 then it goes up each time by 2% each lock
+
+View all settings relating to your protections with */cp*
+
+Let me know if theres **any** issues!
+
+
+[16-Apr-20 09:35 AM] Litt#9053
+**Prison**:
+
+```
+- Mined blocks will now automatically go into your inventory
+- Fortune now works on more blocks
+- Added a Mine Bomb shop in /help```
+
+(Reminder Prison server is in*** Beta***)
+
+
+[16-Apr-20 12:04 PM] Litt#9053
+***All Servers***
+
+Unknow issues happening. We are trying to get the servers back up as quick as possible.
+
+@everyone
+
+
+[16-Apr-20 04:36 PM] Litt#9053
+***All Servers***
+
+Had to change permissions plugin. You lost your rank, please either DM me or make a ticket under #deleted-channel. Feel free to let know if any permissions are missing. Also chat layout is being changed tonight. 
+
+Thank you guys for your patience, I truly have no idea what happened.
+
+* *Only Survival and Creative are up currently*
+
+
+[19-Apr-20 09:42 PM] Mortex🇬🇧#8361
+All Servers are currently offline untill further notice
+
+@everyone
+
+{Reactions}
+❤️ (6) 
+
+[20-Apr-20 12:46 AM] Litt#9053
+Today we had some unfortunate events occur. There is an exploit to where players who use hacked clients that can take advantage of offline servers. To run a bungee server we had to have certain settings on... This allowed these players to join and connect using Mortex's Minecraft account. Towny server spawn was only thing really affected. We have now fixed everything they have affected. 
+
+As soon as I got on, I was reached out by the CEO of SparkedHost (Our server hosting company) Who immediately realized something was wrong reached out and immediately helped us come to fixes. We've also installed two special plugins to prevent this exploit and several exploits to ever happen.
+
+We will be installing the rest of the protection for Creative and Prison server so they will be down tell tomorrow.
+
+We are doing finishing touches to Towny and it will be back up.
+
+Thank you for all your patience and support!
+
+@everyone
+
+
+[20-Apr-20 02:21 AM] Litt#9053
+Hey @everyone 
+
+Towny is back up! Feel free to join!
+
+ @deleted-role - update will be posted in our staff chat! 
+
+Ticket bot is back up aswell, if you need any help please feel free to make a ticket in #deleted-channel
+
+
+[20-Apr-20 08:16 AM] Mortex🇬🇧#8361
+Hello @everyone ,
+Well last night/This Morning was unexpected wasent it 🧐.
+Here's a quick update to the servers.
+
+```
+- VPN/Proxy can NOT be used and the network will reject you.
+- Exploit fixer to prevent such attacks as UUID Spoof, Custom Payloads, Server crash and more .
+-  Handshake Protocol Verify.
+-  Anti-Bot (Prevent Bot Attacks.)
+- MCStaff will have to enter there own PIN to identify it's them playing.
+- Client Identify.
+```
+
+I can't promise you lot that the new stuff added is 100% reliable but should work as expected.
+
+
+[20-Apr-20 09:59 AM] Litt#9053
+@everyone 
+
+**All servers are up**
+
+{Reactions}
+mrscru3Bomb 
+
+[20-Apr-20 04:48 PM] Mortex🇬🇧#8361
+@everyone ~~All Servers for unexpected reason. Follow up be shortly~~
+
+
+[20-Apr-20 04:50 PM] Mortex🇬🇧#8361
+All Back up now
+
+{Reactions}
+SH (5) ultrafastparrot (6) 
+
+[24-Apr-20 03:32 PM] Mortex🇬🇧#8361
+@everyone~~ Warning for people who are playing currently on the network please do not leave! if you leave you won't be able to rejoin for a while due to doing backend DNS propagation! If you do decide to leave and wanting to come back later you can but at the moment the play.scrub.network is temp down! Some people can still connect to it fine but this may not be the case. Sorry for an issues~~
+
+
+[24-Apr-20 05:24 PM] Mortex🇬🇧#8361
+~~Quick update it will take a while again for people to connect to ip again due to the fact what i wanted to do can't be done so the IP has been restored to how it was originally and might take up to an hour for it to work in some cases!~~
+
+
+[28-Apr-20 02:19 PM] Litt#9053
+**Its about time...**
+
+A couple of us have been *trapped*  here for awhile now. It's definitely *a lot* better then the last place they had me in...
+Each *place* they send me seems to have *new* blocks and ores for me to *mine*...
+
+I guess its fair...
+
+My small plot allows me to farm my *food* and build a shelter which i've been *upgrading* with each place **they** send me...
+I've even started a *collection* of *contraband* which **they** don't know about.
+
+Even my *tools* have been upgrading, it does seem like **they** control this.
+
+I do have *optimism* that there is an *end*  to this and I will be *liberated*...
+I don't know how many other *prisoners* I can fight off either...
+
+
+
+*** Coming May 1st, 2020...***
+
+
+@everyone
+
+{Reactions}
+mrscru3Bomb (7) 👿 (5) 💩 (5) confused (6) okboomer (4) 
+
+[29-Apr-20 04:48 PM] James#0007
+||@everyone ||
+
+Minecraft auth servers have gone offline and we depend on it for security. So we can not allow anyone on the server at the moments. 
+
+Thank you for you patience and understand ☺
+
+~James
+
+
+[01-May-20 01:09 PM] Litt#9053
+**Prison | Rlease**
+
+All your commands and resources are under /help | Do not ask how to do something without reading the FAQ and your commands under /help
+
+
+Subs get:
+
+- 3 Plots in total
+- Mystery Box Crafting Animation
+- 2 Player Vaults in total /pv 1-2 
+- /warp Sub
+- Fortune on all blocks
+- /kit Sub
+
+
+Vip gets:
+
+- All Mystery Box opening Animations
+- 4 Plots in total
+- 3 Player Vaults in total
+- /kit Vip
+- /warp Vip
+
+Sub and Vip will get more features in upcomming updates, and all features are subject to removal at ANY time.
+
+There will  be  donator ranks rolling out aswell.
+
+Prison includes: Mining from rank A-Z, cosmetics, plots, and a bunch of game alterting mechanics. This server is new so it  will still have bugs/exploits... As always report them to any Staff!
+
+With these mechanics comes future updates such as a PvP update. i'll make a post about.
+
+Most features on Prison server have been reworked... If you Beta tested the server things are a bit different. 
+
+ALSO: If you played the Prison for 5+ Hours please send me a message, I have a reward for you.
+
+Feel free to ask me questions! But please use /help | I took a long time on it to make everything simple.
+
+ALSO: If you are a sub or vip please make a ticket or dm me! DO NOT bother scrub when he is streaming, we will give you your rank EVENTUALLY!
+
+@everyone
+
+{Reactions}
+💯 (4) 🥳 (2) 
+
+[01-May-20 01:10 PM] Litt#9053
+Updates throughout the day will be here! ❤️
+
+
+[04-May-20 01:02 PM] Litt#9053
+**Prison**:
+
+> ```Mines will now automatically reset every 15 minutes no matter what, to prevent broken mines.
+> Gadgets / Mystery Boxes are now disabled.```
+
+{Reactions}
+mrscru3Bomb mrscru3Bee 
+
+[06-May-20 05:52 AM] Mortex🇬🇧#8361
+All servers are going under maintenance to perform updates.
+
+
+[06-May-20 10:08 AM] Mortex🇬🇧#8361
+Server's are back up
+
+
+[07-May-20 04:46 PM] Litt#9053
+**Strange things have been happening**...
+
+The few of us that have scaled through these *different* and *strange* "mines" have exchanged stories lately...
+
+Stories of being *followed*...
+
+Late at night we've been seeing *lights* in the *sky*...
+
+The **Warden** has called us crazy and *threatens* to send us to *psych* ward.
+
+Each night I *swear* the lights are getting closer.
+I  *believe* i'm being watched when i'm at my plot. Not by the **Warden** either.
+
+I do not **feel** safe.
+
+
+@everyone
+Prison will be back the *14th*
+
+{Reactions}
+💩 (3) 👿 PensiveYeehaw (2) WeirdChamp (2) ❓ (2) 
+
+[08-May-20 08:17 AM] Mortex🇬🇧#8361
+Server are on maintenance for about an estimated hour to fix some things.
+
+{Reactions}
+WeirdChamp 
+
+[10-May-20 06:01 PM] Litt#9053
+**All Servers**
+
+Downtime tonight at 8PM MTN Standard Timezone 
+
+@everyone
+
+{Reactions}
+WeirdChamp (3) ooooo 
+
+[10-May-20 10:06 PM] Litt#9053
+https://tenor.com/view/jonah-hill-yay-greek-aldos-gif-7212866
+
+{Embed}
+https://tenor.com/view/jonah-hill-yay-greek-aldos-gif-7212866
+https://media.tenor.co/images/2208f4bccdeaad6c7ed367d8fb97de92/tenor.png
+
+
+[10-May-20 10:06 PM] Litt#9053
+**Server Downtime in under an hour!**
+
+Stay *posted*  for update notes here in #📃network-updates
+
+
+[10-May-20 11:07 PM] Litt#9053
+**All Servers**
+
+*Server Downtime has begun*...
+
+
+[11-May-20 12:58 AM] Litt#9053
+**All Servers**
+
+*Server Downtime* will last another 2 hours approximately!
+
+Thank you for your patience :mrscru3Bomb: :mrscru3Bomb: :mrscru3Bomb:
+
+
+[11-May-20 02:58 AM] Litt#9053
+**All Servers**
+
+*Server Downtime* is over!
+
+Hub is under construction so we have a temp spawn!
+
+Just did some server-side updates nothing big... *yet*.
+
+@everyone
+
+{Reactions}
+WeirdChamp (4) 😋 (2) 
+
+[14-May-20 04:10 PM] Litt#9053
+It's been *awhile*...
+
+I perfectly adjusted to the life inside the Mines...
+
+Things weren't horrible... I just finished setting up my base at the plot, and a great supply of food for my daily lunches at the mines.
+
+but *all* that *has* changed.
+
+Now i'm just captive on *whatever* this is. 
+
+All I can see is endless *Darkness* and these tiny lights
+
+I don't even know how I am *alive* I haven't had a taste of food or even a sip of water since my *abduction*
+
+All I hear is *weird* noises, I hope I survive...
+
+
+**Continued** *~~Prison  ~~* **Space Prison** *Downtime*
+
+@everyone
+
+
+[14-May-20 04:14 PM] Litt#9053
+> ```NO CURRENT ETA FOR NEW SPACE PRISON SERVER
+> 
+> Creative Server is being reworked
+> 
+> Concept ideas / General construction for a new server have begun
+> ```
+
+
+Bunch of servers are in development, give Devs time. We are making things as "perfect" as possible
+
+{Reactions}
+Lebronturnt (5) widepeepotri (6) widepeepokek (5) TranceGirlRainbow (4) yeet (5) nyan (5) triANELE (5) homiekiss (5) rly (5) getin (5) 
+
+[16-May-20 12:21 PM] Mortex🇬🇧#8361
+All Server's are going on maintenance to prepare for an event! ETA Maintenance Now - 6PM GMT. @everyone
+
+
+[18-May-20 01:46 PM] OnlyAPenguin#3823
+If you need help on making a shop keeper please refer to this video made by one of our mods @ItsEmma111 https://www.youtube.com/watch?v=gdUyvbvwrow
+
+{Embed}
+ItsEmma 111
+https://www.youtube.com/watch?v=gdUyvbvwrow
+How to Make a Shopkeeper | ScrubNation
+This is for helping players on the ScrubNation Server!
+
+-MrScrubDetector-
+Twitch (Most on): https://www.twitch.tv/mrscrubdetector
+Discord: https://discord.gg/8jDPJPM
+Youtube: https://www.youtube.com/channel/UCcespW7NkHYPboXpzRdZOg
+Twitter: https://twitter.com/MrScrubDetector
+I...
+https://i.ytimg.com/vi/gdUyvbvwrow/maxresdefault.jpg
+
+
+[20-May-20 03:53 PM] OnlyAPenguin#3823
+Were currently experiencing a bug on a plugin and when you join the game you will be automatically frozen. Please Open up a ticket if you need to be unfrozen or I will help you while im online. Ill be posting updates here. @everyone
+
+{Reactions}
+WeirdChamp (4) 
+
+[23-May-20 12:09 AM] Litt#9053
+***All Servers***
+
+Will be down for the next 1-3 hours.
+
+I’ll be as quick as possible. Not going to @ everyone because no one is online on the servers. 
+
+Please refer here for further updates!
+Thank you.
+
+
+[23-May-20 05:41 AM] Litt#9053
+***All Servers***
+
+Back online...
+
+stay tuned...
+
+{Reactions}
+🎉 (4) 
+
+[23-May-20 05:50 AM] Litt#9053
+*Was it all a **dream***?
+
+I'm back to the **mines**... My **plot**... My **farm**...
+
+I don't understand... 
+
+How long was I gone?
+
+***one thing i do know for sure, i'm still not alone...***
+
+─────────────────────────────────────────────────────────────────────────────────────────
+
+OG ***Prison*** server is back up within the next hour or so. 
+
+This is temporary, and purely so you guys can have some extra entertainment while we work on some things.
+
+Staff will not be fixing any bugs, or resolving any tickets specifically pertaining to the Prison server right now.
+The server is filled with bugs and exploits. However it is still fun and functional. Enjoy it for what it is. Amazing things are coming. 
+─────────────────────────────────────────────────────────────────────────────────────────
+
+{Reactions}
+❤️ (4) MCdiamondpickaxe (2) mrscru3Bomb (2) mrscru3Hypee (2) MCdiamondshovel (2) 
+
+[23-May-20 05:06 PM] Litt#9053
+No roles will be given to Subs on the Prison.
+
+If you were given your Sub rank on the old Prison server you might still have it.
+
+Like I stated, please do not create any tickets relating to Prison.
+
+This server is __***temporary***__
+
+{Reactions}
+💩 (5) 
+
+[27-May-20 11:10 AM] OnlyAPenguin#3823
+Hub Servers are currently down and you will not be be able to join. I apologize for the inconvience. I'll update you here wats the servers are back up
+
+
+[27-May-20 12:47 PM] Mortex🇬🇧#8361
+Anyone enjoying the sun today ? I sure have! Pssttt the Server are back up!
+
+
+[02-Jun-20 10:09 AM] Litt#9053
+**Prison** Server is completely down.
+
+
+[05-Jun-20 09:36 AM] Mortex🇬🇧#8361
+Hello @everyone ! Just a heads up if you try to connect to the mc server it will reject you due to working on backends! This might take up to 48 hours for propagation to complete!
+
+{Reactions}
+😭 (3) WeirdChamp (2) mrscru3Dead 
+
+[07-Jun-20 06:03 AM] Litt#9053
+All Servers 
+
+Expect random downtime, connectivity issues, and minor bugs within the next week or so. Things will stop being glitchy soon, I promise. 
+
+Thank you guys for your patience, I promise it will pay off.
+
+
+[11-Jun-20 07:22 PM] Litt#9053
+**All Servers**
+
+Downtime for the next couple hours. 
+
+Thank you for your patience! ❤️
+
+
+[12-Jun-20 05:33 PM] Litt#9053
+**All Servers**
+
+We got a lot of things in the works right now.
+
+Please expect downtime on the Network.
+You might see it "up" on your minecraft multiplayer server list, however it is not up.
+
+Our amazing @deleted-role  team is working on it to release some amazing things VERY soon!
+
+Once again **thank you** guys for your patience, I know you guys have waited a long time but its going to be worth it!
+
+@everyone
+
+{Reactions}
+WeirdChamp (4) WeirdChamp (4) WeirdChamp (4) okboomer (2) why (2) ChuloTwerk (4) 🙂 (3) FootballDick (2) 👀 (2) 
+
+[14-Jun-20 07:40 PM] Litt#9053
+**All Servers**
+
+Still working on the new network! 
+
+I promise ill keep updates going through this channel.
+
+Once again, I appreciate everyone's patience!
+The wait will be well worth.
+
+See you guys soon! ❤️
+
+{Reactions}
+🐝 (2) ok_zoomer 
+
+[15-Jun-20 07:01 PM] Litt#9053
+**All Servers**
+
+Official ETA: Friday @ 12PM Central
+
+
+[19-Jun-20 10:01 PM] Litt#9053
+**Towny**
+
+Towny is officialy released!
+
+The server has a storyline of quests to do around spawn that will be updated **DAILY**.
+It has been updated withing the past 20 minutes with easter eggs and a couple new quests.
+
+Check back to spawn town for daily changes, and storyline updates...
+More quests will come that are very different and even more complex.
+
+Once again appreciate everyones patience with us fixing the tweaks.
+
+If you need your sub rank please make a #📩tickets with your in game username! 
+Or to report any ***bugs***!
+
+**Non subs** can do the following:
+
+```- /sethome
+- /home
+- /spawn
+- /msg
+- /bal
+- /pay
+- Towny related commands
+- Create Shopkeeper shops
+- Accept or Deny Quests *fixed*```
+
+**Subs** can do the following:
+
+```- /enderchest or /ec
+- /workbench or /craft
+- Can create "witch" Shopkeepers```
+
+
+Remember to check back in here for daily updates!
+@everyone
+
+
+[19-Jun-20 10:03 PM] Litt#9053
+Oh and the Shop is under spawn!
+
+It works now, you can sell stuff.
+
+{Reactions}
+pog 🇱 (4) 🇴 (4) 🇻 (4) 🇪 (4) ❤️ (2) 🇺 (4) 
+
+[20-Jun-20 04:15 PM] James#0007
+⚠️ **Downtime** ⚠️ 
+
+📌 **Towny** will be offline on the 24/6/2020 for some maintenance.
+
+@everyone
+
+{Reactions}
+angerysad (4) mrscru3Dead (2) Minecraft (3) yeet 
+
+[20-Jun-20 07:42 PM] Litt#9053
+All servers are down! 
+
+Sorry about this!
+
+{Reactions}
+🇮 (4) 🇹 (4) 🇸 (4) peepoLove (2) 🇴 (4) 🇰 (4) 
+
+[21-Jun-20 07:10 AM] Litt#9053
+Hello, @everyone!
+
+Sorry about the unexpected downtime. The Towny server is now back up...
+
+However - We are going to have downtime all day Wednesday probably into the evening.
+I promise after Wednesday there wont be downtime for a long time.
+
+Thank you once again for your patience! <3
+
+Please keep giving us #💡feedback-and-ideas 
+and report any bugs you see through #📩tickets
+
+{Reactions}
+👏 (3) mrscru3Bomb (3) ❤️ (5) 😡 (3) 🍆 yeet 
+
+[24-Jun-20 04:27 AM] Litt#9053
+Scheduled downtime today.
+
+Will be posted here when downtime **officialy** begins.
+
+{Reactions}
+mrscru3143 (2) 
+
+[24-Jun-20 07:43 PM] Litt#9053
+Downtime has began!!!! D:
+
+Eta: 2-3 Hours
+
+{Reactions}
+omegalul (2) 
+
+[24-Jun-20 11:18 PM] Litt#9053
+**Downtime** is longer then expected.
+
+I'll keep you guys posted with an  accurate ETA when I can...
+
+{Reactions}
+👀 (3) 👍 (2) unPog (2) 
+
+[25-Jun-20 01:42 AM] Litt#9053
+**Server** is back up!
+
+Might be a couple small tweaks or quick restarts prior to scrub's stream!
+
+All ranks were reset again. I'm really sorry. Any subs that have lost their rank again please create a ticket and do not bother Scrub. He can't do  anything about ranks. 
+
+**All** sub tickets will be fulfilled by the end of Scrub's stream if not sooner.
+
+Any issues please make a ticket aswell! ❤️
+
+
+[25-Jun-20 01:16 PM] Litt#9053
+**Ticket Bot** works again.
+
+Feel free to make Tickets regarding network issues, sub roles, or whatever issues you may have!
+
+Use #📩tickets
+
+
+[26-Jun-20 02:57 AM] Litt#9053
+Downtime in 15 minutes to tweak some minor things. 🙂 Shouldn't be long
+
+
+[26-Jun-20 03:43 AM] Litt#9053
+**Servers** are back online!
+
+
+[28-Jun-20 05:40 PM] Litt#9053
+**All Servers**
+Status: *Offline*
+
+We are updating all servers to be compatible with 1.16
+Cya guys on 1.16 soon!
+
+Thought I sent this message like a couple hours ago. My bad.
+@everyone
+
+{Reactions}
+mrscru3Bee (3) okboomer (2) 
+
+[28-Jun-20 05:51 PM] Litt#9053
+**Welcome to 1.16**
+
+Hope you all have fun!
+Sorry for @ you all but I want you all to know that the server was updated to 1.16 which means you need to change your *Minecraft Version*!
+
+@everyone
+
+{Reactions}
+👊 (9) ❤️ (7) 🇾 (4) 🅰️ (4) 💴 (3) ☺️ (2) 
+
+[28-Jun-20 05:54 PM] Litt#9053
+Remember to report any bugs or issues to #📩tickets or #💡feedback-and-ideas !
+
+{Reactions}
+👊 (5) 😂 (5) 👌 (4) ❤️ 
+
+[29-Jun-20 12:51 PM] Litt#9053
+Downtime tonight at 9pm (MTN Standard) for about an hour to fix some things that have broken due to 1.16.
+
+Also will be adding the highly requested Chest Protection...
+
+
+[29-Jun-20 12:51 PM] Litt#9053
+Keep a watch on this channel. Might have to take down server sooner. 
+
+I'll post here if anything changes. 🙂
+
+
+[30-Jun-20 02:27 AM] Litt#9053
+**Towny**
+
+Stealing / Raiding has been a huge problem!
+Heres a fix:
+
+Lock chests or doors or whatever with: /cprivate + left/right click the container
+
+To add someone to your chest or door or whatever /cmodify USERNAME
+
+To remove someone from your chest or door or whatever /cmodify -USERNAME
+DONT FORGET THE -
+
+Let me know if theres any bugs or issues!
+
+{Reactions}
+❤️ (2) 👍 (2) 
+
+[02-Jul-20 11:32 PM] Litt#9053
+*A new server is appearing...*
+
+Think you are an __expert__ at Minecraft?
+Think you have __mastered__ Minecraft's mechanics to the core?
+Lets see what **you've** got then!
+
+Introducing  __**Hardcore:**__
+
+1 Life...
+1 Golden apple...
+
+Lets see who prospers and who really is a **SCRUB**!
+
+*Coming very soon...*
+@everyone
+
+{Reactions}
+👍 (11) 🇸 (9) 🇺 (9) 🇧 (9) pog (15) 🤷 (7) 🇪🇪 (4) yeet (5) 
+
+[05-Jul-20 12:32 PM] Litt#9053
+**Welcome to Hardcore**!
+
+Couple things...
+
+First off; If you are a sub/vip, please make a Ticket for your role. This server uses separate permissions, sorry about that.
+I'll be as quick as possible to adding roles.
+
+*Server features*:
+
+```- Grief Prevention is back! Use a golden shovel to claim your base! You start off with 200 claim blocks and grow 100 claims blocks per hour.
+- Same chest protection as towny!
+- If you are a sub you have access to /kit sub
+- If you are a vip you have access to /kit vip```
+
+Do not make tickets with your death ban. You will not be unbanned. Death bans are final.
+
+Have fun and please report bugs in #📩tickets!
+
+Cya guys soon!
+Official release of server is as soon as scrub streams!
+
+
+[06-Jul-20 02:34 AM] Litt#9053
+There will no longer be any Hardcore respawns! If you die you DIE!
+
+Please report any bugs to #📩tickets 
+
+Something else is coming soon... 🙂
+
+
+[07-Jul-20 05:53 PM] Litt#9053
+Hardcore will be down tonight at around 10pm MTN Std
+
+
+[08-Jul-20 01:46 AM] Litt#9053
+Downtime will now be 2 hours late!
+(*ETA: 1AM MTN STD*)
+
+
+[08-Jul-20 04:19 AM] Litt#9053
+**Hardcore:**
+
+Downtime has begun.
+ETA: 1 Hour
+Status: :loading:
+
+
+[08-Jul-20 05:05 AM] Litt#9053
+**Hardcore:**
+
+__Patch Notes:__
+```- Increased mob spawn rate
+- Added new sleep mechanic```
+
+__Sleeping:__
+```- When you go to sleep at night, it slowly progresses the "in game time".
+- Time will progress faster, the more players that sleep.
+- When sleeping for long periods of time you may receive up to a half heart of health.```
+
+
+[08-Jul-20 05:06 AM] Litt#9053
+Status: Online
+
+
+[10-Jul-20 05:50 PM] Litt#9053
+Please expect delayed ticket times throughout the next couple days!
+I do apologize, this will change very soon.
+
+Thank you for your patience as always.
+
+
+[15-Jul-20 04:15 PM] Litt#9053
+**Towny:**
+
+```- Pvp has now been disabled```
+
+{Reactions}
+blobDance (15) 
+
+[18-Jul-20 07:16 PM] James#0007
+**Network:**
+
+``Resetting the network`` Complete
+
+
+[09-Aug-20 11:12 PM] Litt#9053
+**Network**:
+
+```
+- Towny is being taken down and replaced with Survival.
+- Hardcore is getting a reset.
+- New upcoming features. 
+```
+
+Servers Status: :statusonline: 
+ETA: Complete
+
+
+[09-Aug-20 11:28 PM] ScrubDetector#7361
+That’s actually dope as hell^^^
+
+
+[10-Aug-20 03:26 AM] Litt#9053
+**Network**:
+
+Hardcore and Creative server will be updated and re-released within the next day.
+Hardcore is going to be reset.
+
+Links for both the Hardcore world and Towny world will be available soon.
+
+
+[23-Aug-20 07:52 AM] Litt#9053
+**Network:**
+
+Expect downtime 8/25/20...
+I'll post more specific time soon.
+
+
+[30-Aug-20 07:05 PM] Litt#9053
+**Network:**
+
+Downtime for the next couple hours..
+Switching to 1.16.2 and other things...
+
+
+[30-Aug-20 09:53 PM] Litt#9053
+**Network:**
+
+Status: :statusloading:
+
+
+[31-Aug-20 12:52 PM] James#0007
+**Network:**
+
+Status: :statusonline: 
+
+*new hosting service being used, to please dm either AJ or James if any problems arise*
+
+
+[15-Sep-20 02:33 AM] Litt#9053
+Survival server is currently down
+
+
+[15-Sep-20 03:40 AM] Litt#9053
+Survival server is back up
+
+
+[14-Oct-20 12:32 PM] Litt#9053
+**EXPECTED**:
+
+Downtime on the entire Network an hour or so after Scrub's stream ends!
+I'll update with accurate updates soon!
+
+{Reactions}
+☺️ 
+
+[14-Oct-20 05:23 PM] Litt#9053
+**Downtime**:
+
+Within the next half hour downtime will begin.
+
+*SpOoKy sEaSon*
+
+{Reactions}
+kekw (4) NO (4) okboomer (5) LCWow 
+
+[15-Oct-20 07:51 AM] Litt#9053
+**Halloween Update:**
+
+
+__**SurvivalSMP**__
+- New features in /help
+- New Buy Shop on /help
+- New Section for Selling to your Jobs on /help
+- Halloween Ranks
+- Quests will start appearing around spawn
+- Survival Plot world 
+- New Butcher Rank
+- No longer can trample crops
+- Mobs have a 5% chance of dropping their head, the more you kill mobs the higher that goes aswell as having looting
+
+__**Hub**__
+- Spooky
+- Extra Spooky
+
+__**Creative**__
+- Still under construction
+
+
+**Sub sync / Vip sync is still being worked on.*
+
+
+[15-Oct-20 07:56 AM] Litt#9053
+You will be able to join when Scrub goes live!
+
+**https://twitch.tv/MrScrubDetector**
+
+
+[15-Oct-20 05:21 PM] Litt#9053
+Halloween kits will stay available for 1 week! type /kit to claim
+
+
+==============================================================
+Exported 98 message(s)
+==============================================================
